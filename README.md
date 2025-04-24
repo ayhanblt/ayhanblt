@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ayhan Bulut
 
-<!--
-**ayhanblt/ayhanblt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Software Developer with expertise in building scalable and user-friendly applications.
 
-Here are some ideas to get you started:
+## 🌍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm Ayhan Bulut, a dedicated Software Developer with a strong background in both frontend and backend technologies. I enjoy crafting efficient and maintainable code to solve complex problems.
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Next.js, React Native, Vue, Nuxt
+- **Backend:** .NET Core, .NET Framework
+
+## 📫 Contact
+
+- LinkedIn: [ayhanblt](https://www.linkedin.com/in/ayhanblt/)
+- Email: ayhanbulut91@gmail.com
