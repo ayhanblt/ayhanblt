@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayhan+Bulut!;" />
 </h1>
 
-<h2 align="center">A explorative Software Developer</h2>
+<h2 align="center">A Explorative Software Developer</h2>
 
 <br/>
 
